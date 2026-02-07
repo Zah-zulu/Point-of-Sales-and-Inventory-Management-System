@@ -29,5 +29,17 @@ The original system connects to a secured database accessible only via VPN nad a
 
 ## Screenshots 
 ![DB Schema](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/raw/main/screenshots/db-schema.png)
+![Staff Login](ttps://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(668).png)
+![Welcome page](ttps://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(669).png)
+![Customer infor](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(671).png)
+![POS](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(676).png)
+![slip](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(677).png)
+![sales infor](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(678).png)
+![logout](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(679).png)
+![Manager Login](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(681).png)
+![Manager Page](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/blob/main/screenshots/Screenshot%20(684).png)
+
+
+!(
 
 
