@@ -28,3 +28,6 @@ Database credentials and live connections have been removed from this repository
 The original system connects to a secured database accessible only via VPN nad authenticated credentials.
 
 ## Screenshots 
+![DB Schema](https://github.com/Zah-zulu/Point-of-Sales-and-Inventory-Management-System/raw/main/screenshots/db-schema.png)
+
+
